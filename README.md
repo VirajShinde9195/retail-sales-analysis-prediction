@@ -112,7 +112,7 @@ Performed detailed analysis including:
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run app_sales.py
 ```
 
 ---
